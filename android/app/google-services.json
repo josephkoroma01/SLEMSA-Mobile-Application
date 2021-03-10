@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431561847061",
+    "project_id": "slemsa",
+    "storage_bucket": "slemsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431561847061:android:3042c2faf2781a9ca6391c",
+        "android_client_info": {
+          "package_name": "com.example.SLEMSA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431561847061-94oabl0d86md45hqmsbjt0fjc87qnc9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2VRTNyS5-3V5gdiwieWvzvTQNVziQTjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431561847061-94oabl0d86md45hqmsbjt0fjc87qnc9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
